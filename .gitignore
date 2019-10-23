@@ -1,2 +1,4 @@
 .env
+.heroku
+.profile.d
 node_modules/
